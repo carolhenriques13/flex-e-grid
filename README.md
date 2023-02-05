@@ -4,7 +4,6 @@ Site criado com auxílio dos cursos de HTML e CSS da Alura.
 Desenvolvido e responsivo para telas de dimensões de 360, 720 e 1440px. 
 Concluído em 18/12/2022 por Caroline.
 
-
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
